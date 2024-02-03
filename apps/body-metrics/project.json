@@ -1,7 +1,7 @@
 {
-  "name": "front-gym-track",
+  "name": "body-metrics",
   "$schema": "../../node_modules/nx/schemas/project-schema.json",
-  "sourceRoot": "apps/front-gym-track",
+  "sourceRoot": "apps/body-metrics",
   "projectType": "application",
   "targets": {},
   "tags": []

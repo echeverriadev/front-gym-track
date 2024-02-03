@@ -13,7 +13,7 @@ export default async function Index() {
           <div id="welcome">
             <h1>
               <span> Hello there, </span>
-              Welcome front-gym-track 👋
+              Welcome home 👋
             </h1>
           </div>
 
@@ -397,7 +397,7 @@ export default async function Index() {
                 </svg>
                 View project details
               </summary>
-              <pre>nx show project front-gym-track --web</pre>
+              <pre>nx show project home --web</pre>
             </details>
             <details>
               <summary>
